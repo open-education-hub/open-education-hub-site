@@ -6,4 +6,4 @@ containers and the Docusaurus[Docusaurus][] documentation template.
 
 [Docusaurus]: https://docusaurus.io/
 [Docker]: https://docker.com/
-[OpenEducationHub]: https://openeducationhub.github.io
+[OpenEducationHub]: https://open-education-hub.github.io/
