@@ -36,6 +36,19 @@ If a class uses "operating systems" as part of its name, it's likely I'm part of
 Research-wise I work on software security, particularly [Apple iOS security](https://github.com/malus-security/) and [the Unikraft unikernel](https://unikraft.org/) in recent years.
 I am part of the open source and security community in the university and in Romania.
 
+## Teodor Duțu
+
+<img src="/img/people/teodor_dutu.jpg" title="Teodor Dutu" width="200" />
+
+I am a contributor to the OpenEdu project (21-COP-0016).
+I am developing content for the [Operating Systems class](https://github.com/systems-cs-pub-ro/operating-systems-oer/), the [Security Summer School](https://github.com/security-summer-school/), as well as the [D Summer School](https://dlang-upb.github.io/D-Summer-School/).
+
+I am a Masters student at University POLITEHNICA of Bucharest, Romania, enrolled in the Advanced Cybersecurity programme.
+I am also part of the teaching teams at University POLITEHNICA of Bucharest, being involved in the Operating Systems, the Data Structures and the Hardware-Software Interface classes.
+I am interested in compilers, programming language analysis, operating systems, security and embedded programming and passionate about open source and I am also a contributor to the [D programming language](https://dlang.org/).
+
+Apart from computer science, I like history, philosophy, literature, healthy cooking and running.
+
 ## Hulda Hvönn Kristinsdóttir
 
 <img src="/img/people/hulda_kristinsdottir.jpg" title="Hulda Hvönn Kristinsdóttir" width="200" />
