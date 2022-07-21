@@ -91,3 +91,12 @@ I am an active open source contributor to [the D programming language](https://d
 
 My passions, beyond the field of computer science, include literature, music, film, education techniques, psychology, philosophy, and sports.
 I like to discover new experiences and to live anything that is worth living.
+
+## Gunnar Stefansson
+
+<img src="/img/people/gunnar_stefansson.png" title="Gunnar Stefansson" width="250" />
+
+Hi, I'm Gunnar.
+I supervise the Icelandic component of the OpenEdu project, in particular the linking and format consistency with [tutor-web](https://tutor-web.net/).
+
+I am a Professor of Statistics at the University of Iceland, Department of Mathematics.
