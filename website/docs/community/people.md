@@ -65,3 +65,16 @@ I teach various Mathematics courses at the University of Iceland, in either main
 These are usually Calculus courses, though they can also include topics in Complex Analysis, Partial Differential Equations, Numerical Analysis and more.
 
 In my spare time, I like spending time with my wife and cat, watching math videos on YouTube and trying out different exercise routines with friends.
+
+## Răzvan Nițu
+
+<img src="/img/people/razvan_nitu.jpg" title="Razvan Nitu" width="200" />
+
+As part of the OpenEdu (21-COP-0016) team I am charged with defining and maintaining the methodology for creating high quality educational resources.
+
+I am a PhD student at University POLITEHNICA of Bucharest in Computer Science and Engineering.
+My thesis aims at optimizing memory operations at all possible levels: application, operating system and hardware.
+I am an active open source contributor to [the D programming language](https://dlang.org/).
+
+My passions, beyond the field of computer science, include literature, music, film, education techniques, psychology, philosophy, and sports.
+I like to discover new experiences and to live anything that is worth living.
