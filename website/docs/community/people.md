@@ -9,7 +9,9 @@ title: People
 ![Hulda Hvönn Kristinsdóttir](../../static/img/people/hulda.jpg)
 
 Hi!
-I'm Hulda. I have a Bachelors degree in Mathematics and Mathematical Education and a Masters degree in Upper Secondary Education of Mathematics. My role in the OpenEdu project is to review the content of the Computing and Calculus for Applied Statistics (CCAS) course at the University of Iceland and adapt it to the new system developed by Open Education Hub.
+I'm Hulda.
+I have a Bachelors degree in Mathematics and Mathematical Education and a Masters degree in Upper Secondary Education of Mathematics.
+My role in the OpenEdu project is to review the content of the Computing and Calculus for Applied Statistics (CCAS) course at the University of Iceland and adapt it to the new system developed by Open Education Hub.
 
 I work full time as a math teacher at the Commercial College of Iceland and as a part time teacher at the University of Iceland. I particularly enjoy teaching Calculus, Probability and Statistics, but I am also interested in the field of Combinatorics.
 
