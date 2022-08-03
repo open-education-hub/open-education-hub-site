@@ -17,7 +17,6 @@ I work full time as a math teacher at the Commercial College of Iceland and as a
 I particularly enjoy teaching Calculus, Probability and Statistics, but I am also interested in the field of Combinatorics.
 
 I spend most of my spare time taking care of my indoor jungle, doodling and weight lifting.
-
 ## Eggert Karl Hafsteinsson
 
 ![Eggert Karl Hafsteinsson](../../static/img/people/eggert.png)
