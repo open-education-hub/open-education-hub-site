@@ -23,7 +23,11 @@ I spend most of my spare time taking care of my indoor jungle, doodling and weig
 ![Eggert Karl Hafsteinsson](../../static/img/people/eggert.png)
 
 Hi!
-My name is Eggert Karl. I'm a math educator. I have a Masters degree in Mathematics (Multivariate Complex Analysis), Bachelors degrees in Applied Mathematics as well as Computer Science and have an additional diploma in Upper Secondary School Education. My work in the OpenEdu project consists mainly of adapting content developed for the Computing and Calculus for Applied Statistics (CCAS) course at the University of Iceland for the new framework that we are developing. In addition, I also participate in development discussion, where I try to bring an educator's point of view, as well as how we can leverage past experiments, such as [tutor-web](https://tutor-web.net/).
+My name is Eggert Karl.
+I'm a math educator.
+I have a Masters degree in Mathematics (Multivariate Complex Analysis), Bachelors degrees in Applied Mathematics as well as Computer Science and have an additional diploma in Upper Secondary School Education.
+My work in the OpenEdu project consists mainly of adapting content developed for the Computing and Calculus for Applied Statistics (CCAS) course at the University of Iceland for the new framework that we are developing.
+In addition, I also participate in development discussion, where I try to bring an educator's point of view, as well as how we can leverage past experiments, such as [tutor-web](https://tutor-web.net/).
 
 I teach various Mathematics courses at the University of Iceland, in either main or assistant roles.
 These are usually Calculus courses, though they can also included topics in Complex Analysis, Partial Differential Equations, Numerical Analysis and more.
