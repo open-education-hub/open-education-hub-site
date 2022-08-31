@@ -35,3 +35,17 @@ I am primarily interested in operating systems and security, with a penchant for
 If a class uses "operating systems" as part of its name, it's likely I'm part of the team.
 Research-wise I work on software security, particularly [Apple iOS security](https://github.com/malus-security/) and [the Unikraft unikernel](https://unikraft.org/) in recent years.
 I am part of the open source and security community in the university and in Romania.
+
+## Hulda Hvönn Kristinsdóttir
+
+<img src="/img/people/hulda_kristinsdottir.jpg" title="Hulda Hvönn Kristinsdóttir" width="200" />
+
+Hi!
+I'm Hulda.
+I have a Bachelors degree in Mathematics and Mathematical Education and a Masters degree in Upper Secondary Education of Mathematics.
+My role in the OpenEdu project is to review the content of the Computing and Calculus for Applied Statistics (CCAS) course at the University of Iceland and adapt it to the new system developed by Open Education Hub.
+
+I work full time as a math teacher at the Commercial College of Iceland and as a part time teacher at the University of Iceland.
+I particularly enjoy teaching Calculus, Probability and Statistics, but I am also interested in the field of Combinatorics.
+
+I spend most of my spare time taking care of my indoor jungle, doodling and weight lifting.
