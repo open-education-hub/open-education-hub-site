@@ -92,6 +92,17 @@ These are usually Calculus courses, though they can also include topics in Compl
 
 In my spare time, I like spending time with my wife and cat, watching math videos on YouTube and trying out different exercise routines with friends.
 
+## Vlad Năstase
+
+<img src="/img/people/vlad_nastase.png" title="Vlad Nastase" width="200" />
+
+I'm part of the infrastructure team for the OpenEdu project, tasked with automating content builds.
+
+I am a Masters student at University POLITEHNICA of Bucharest, Romania, currently enrolled in the Security of Computer Networks programme.
+For the last two years I've been part of the teaching team for the Computer Networks class.
+
+I also enjoy CTFs, photography and hiking.
+
 ## Răzvan Nițu
 
 <img src="/img/people/razvan_nitu.jpg" title="Razvan Nitu" width="200" />
