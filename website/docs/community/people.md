@@ -113,3 +113,19 @@ Hi, I'm Gunnar.
 I supervise the Icelandic component of the OpenEdu project, in particular the linking and format consistency with [tutor-web](https://tutor-web.net/).
 
 I am a Professor of Statistics at the University of Iceland, Department of Mathematics.
+
+## Sergiu Weisz
+
+<img src="/img/people/sergiu_weisz.jpg" title="Sergiu Weisz" width="200" />
+
+Hi, I'm Sergiu Weisz and I like teaching.
+I am a PhD student at the University POLITEHNICA of Bucharest with a particular interest in distributed computing.
+As part of my thesis I work on providing innovative solutions for managing data for the ALICE experiment at CERN.
+
+I am also a teaching assistant at the University POLITEHNICA of Bucharest, teaching Systems-related classes such as Introduction to Operating Systems and Operating Systems Internals.
+I work as a system admin at the university, where I maintain research enabling services such as private clusters, storage solutions and user facing services such as GitLab and the institutional computing grid.
+
+As part of the OpenEdu project I coordinate the infrastructure team, made up of myself, Mihai Băruta and Vlad Năstase.
+Our tasks is to develop a software framework that allows teachers and creatives to define resources that then are built into services to be used by students.
+
+I am a nerd, so in my free time I like to tinker with different computing related things such as getting my games to run on Linux, testing new and interesting hardware and finding alternatives to big tech offered services using open source software.
