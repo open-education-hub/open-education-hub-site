@@ -21,6 +21,19 @@ I currently work at [Bitdefender](https://www.bitdefender.com/) as a software en
 
 Apart from computer science, I really enjoy skiing, dancing and cooking.
 
+## Mihai Băruța
+
+<img src="/img/people/mihai_baruta.jpg" title="Mihai Baruta" width="200" />
+
+Hi!
+I am Mihai. I'm part of the infrastructure team for the OpenEdu project, tasked with developing a solution for distributing educational content.
+I am also the developer of VMChecker Next, which is a service where teachers can set up automatic checking for their programming assignments.
+
+I am a graduate of the University POLITEHNICA of Bucharest, Romania.
+
+My spare time is spent mostly tinkering with different programming concepts and languages.
+Among my non-tech-related pastimes, I can count tennis and swimming.
+
 ## Răzvan Deaconescu
 
 <img src="/img/people/razvan_deaconescu.jpg" title="Razvan Deaconescu" width="250" />
