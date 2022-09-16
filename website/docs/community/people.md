@@ -100,3 +100,15 @@ Hi, I'm Gunnar.
 I supervise the Icelandic component of the OpenEdu project, in particular the linking and format consistency with [tutor-web](https://tutor-web.net/).
 
 I am a Professor of Statistics at the University of Iceland, Department of Mathematics.
+
+## Mihai Băruța
+
+<img src="/img/people/mihai_baruta.jpg" title="Mihai Baruta" width="200" />
+
+Hi!
+I am Mihai. I'm part of the infrastructure team for the OpenEdu project, tasked with developing a solution for distributing educational content.
+I am also the developer of VMChecker Next, which is a service where teachers can set up automatic checking for their programming assignments.
+
+I am a graduate of the University POLITEHNICA of Bucharest, Romania.
+
+My spare time is spent mostly tinkering with different programming concepts and languages. Among my non-tech-related pastimes, I can count tennis and swimming.
