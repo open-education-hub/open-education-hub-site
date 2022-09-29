@@ -6,7 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Open Education Hub',
+  title: 'Open Education Hub (OpenEdu)',
+  tagline: 'Creating the Future of Education. Together',
   url: 'https://openeducationhub.github.io',
   baseUrl: '/',
   trailingSlash: false,
@@ -45,7 +46,7 @@ const config = {
         items: [
           {
             to: 'docs/description/project-description',
-            label: 'Project description',
+            label: 'Project Description',
             position: 'left',
           },
           {
@@ -64,35 +65,22 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
             items: [
               {
-                to: 'docs/community/people',
-                label: 'Community members',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discord.gg/UXjumUSGHx',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/OpenEduHub',
+                href: 'https://bit.ly/OpenEduHub',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Open-Education-Hub',
               },
+            ],
+          },
+          {
+            items: [
               {
-                label: 'Reddit',
-                href: 'Reddit: https://www.reddit.com/user/Open_Education_Hub',
-              },
-              {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/company/open-education-hub',
-              },
-              {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/channel/UCumS6d-kaVXreY46eZLtEvA',
+                label: 'Twitter',
+                href: 'https://twitter.com/OpenEduHub',
               },
               {
                 label: 'Facebook',
@@ -100,8 +88,28 @@ const config = {
               },
             ],
           },
+          {
+            items: [
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/open-education-hub',
+              },
+              {
+                label: 'Reddit',
+                href: 'Reddit: https://www.reddit.com/user/Open_Education_Hub',
+              },
+            ],
+          },
+          {
+            items: [
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UCumS6d-kaVXreY46eZLtEvA',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Universitatea Politehnica București. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="http://www.upb.ro">University POLITEHNICA of Bucharest<a/>, <a href="https://english.hi.is/">University of Iceland</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
