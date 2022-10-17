@@ -1,5 +1,6 @@
 ---
 title: Project Team
+sidebar_position: 1
 ---
 
 # Project Team
