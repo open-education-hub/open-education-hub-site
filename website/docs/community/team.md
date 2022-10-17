@@ -1,5 +1,5 @@
 ---
-title: People
+title: Project Team
 ---
 
 # Project Team
