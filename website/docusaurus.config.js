@@ -50,7 +50,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'docs/community/people',
+            to: 'docs/community/team',
             label: 'Community',
             position: 'left',
           },
