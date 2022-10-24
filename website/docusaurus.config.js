@@ -41,6 +41,7 @@ const config = {
         logo: {
           alt: 'Open Education Hub Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
           {
