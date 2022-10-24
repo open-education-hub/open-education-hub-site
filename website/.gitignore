@@ -3,3 +3,6 @@
 
 .docusaurus
 .cache-loader
+
+_site/
+slides.md
