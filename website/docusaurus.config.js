@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'Reddit',
-                href: 'Reddit: https://www.reddit.com/user/Open_Education_Hub',
+                href: 'https://www.reddit.com/user/Open_Education_Hub',
               },
             ],
           },
