@@ -60,6 +60,11 @@ const config = {
             position: 'left',
           },
           {
+            to: 'docs/blog/intro',
+            label: 'Blog',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/open-education-hub/open-education-hub-site/',
             label: 'Repository',
             position: 'right',
