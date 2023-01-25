@@ -118,6 +118,14 @@ const config = {
               },
             ],
           },
+          {
+            items: [
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/open.education.hub/',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="http://www.upb.ro">University POLITEHNICA of Bucharest<a/>, <a href="https://english.hi.is/">University of Iceland</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
