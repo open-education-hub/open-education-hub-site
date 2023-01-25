@@ -3,6 +3,11 @@
 	"MD048": { "style": "backtick" },
 	"MD046": { "style": "fenced" },
 	"MD029": { "style": "one" },
+	"MD033": {
+        "allowed_elements": [
+          "br"
+        ]
+    },
 	"line-length": false,
 	"no-hard-tabs": false
 }
