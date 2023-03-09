@@ -41,7 +41,7 @@ const config = {
         title: 'Open Education Hub',
         logo: {
           alt: 'Open Education Hub Logo',
-          src: 'img/logo.svg',
+          src: 'img/eea-grants.png',
         },
         items: [
           {
