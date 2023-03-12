@@ -17,7 +17,7 @@ function HomepageHeader() {
           <a href="https://www.eeagrants.ro/"><img src="/img/eea-grants.png" title="EEA Grants" width="80" align="center"/></a>
         </div>
         <div id="text" style={{display : 'inline-block'}}>
-          <p align="center" style={{fontSize: '0.75em'}}>Project <strong>21-COP-0016</strong> funded by <a href="https://www.eeagrants.ro/" style={{color: 'white'}}>EEA Grants</a> (via <a href="https://www.anpcdefp.ro/" style={{color: 'white'}}>ANPCDEFP</a>)</p>
+          <p align="center" style={{fontSize: '0.75em'}}>Project <strong>21-COP-0016</strong> funded by <a href="https://www.eeagrants.ro/" style={{color: 'white'}}>EEA Grants</a> (via <a href="https://www.anpcdefp.ro/" style={{color: 'white'}}>ANPCDEFP</a>). <strong>Working together for a green, competitive and inclusive Europe.</strong></p>
         </div>
       </div>
     </header>
