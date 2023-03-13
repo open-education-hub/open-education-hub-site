@@ -129,11 +129,19 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} <a href="http://www.upb.ro">University POLITEHNICA of Bucharest<a/>, <a href="https://english.hi.is/">University of Iceland</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a>.
           <p>
-          The Financial Mechanism Office maintains this website to enhance public access to information about the programmes and projects of the EEA and Norway Grants. The information is of a general nature, based on information and data registered by third parties and is not intended to be comprehensive or complete.
+          The Financial Mechanism Office maintains this website to enhance public access to information about the programmes and projects of the EEA and Norway Grants.
+          The information is of a general nature, based on information and data registered by third parties and is not intended to be comprehensive or complete.
 
-          We make our best efforts to keep this information timely and accurate.  If errors are brought to our attention we will try to correct them. However, The Financial Mechanism Office accepts no responsibility or liability whatsoever with regard to the information on this site and is in no event liable for damages of any kind incurred or suffered as a result of the use of the information presented on this website.
+          We make our best efforts to keep this information timely and accurate.
+          If errors are brought to our attention we will try to correct them.
+          However, The Financial Mechanism Office accepts no responsibility or liability whatsoever with regard to the information on this site and is in no event liable for damages of any kind incurred or suffered as a result of the use of the information presented on this website.
 
           The Financial Mechanism Office reserves the right to alter, amend or remove pages, in whole or in part, without prior notice or to discontinue publication for a period of time or even completely.
+          </p>
+          <p>
+          Material realizat cu sprijinul financiar al Mecanismului Financiar al SEE 2014 – 2021.
+          Conținutul acestuia (text, fotografii, video) nu reflectă opinia oficială a Operatorului de Program, a Punctului Național de Contact sau a Oficiului Mecanismului Financiar.
+          Informațiile și opiniile exprimate reprezintă responsabilitatea exclusivă a autorului/autorilor.
           </p>`,
       },
       prism: {
