@@ -58,7 +58,7 @@
 
 ### Grades
 
-![Average Grade Per Year](avg-grade.png)
+![Average Grade Per Year](media/avg-grade.png)
 
 ---
 
