@@ -139,9 +139,9 @@ const config = {
           The Financial Mechanism Office reserves the right to alter, amend or remove pages, in whole or in part, without prior notice or to discontinue publication for a period of time or even completely.
           </p>
           <p>
-          Material realizat cu sprijinul financiar al Mecanismului Financiar al SEE 2014 – 2021.
-          Conținutul acestuia (text, fotografii, video) nu reflectă opinia oficială a Operatorului de Program, a Punctului Național de Contact sau a Oficiului Mecanismului Financiar.
-          Informațiile și opiniile exprimate reprezintă responsabilitatea exclusivă a autorului/autorilor.
+          This material was realised with the EEA Financial Mechanism 2014-2021 financial support.
+          Its content (text, photos, videos) does not reflect the official opinion of the Programme Operator, the National Contact Point and the Financial Mechanism Office.
+          Responsibility for the information and views expressed therein lies entirely with the author(s).
           </p>`,
       },
       prism: {
