@@ -15,11 +15,11 @@ Each machine has an Ubuntu 20.04 setup where you can work during this workshop.
 The user you will connect to is `student`. The password is `student`
 
 We will be using two tracks for this workshop. The [first
-track](./vmchecker-workshop/vmchecker-hw-setup) is intended for
+track](./vmchecker-workshop/vmchecker-hw-moodle-setup) is intended for
 TAs and UPB staff, who already have access to the production infrastructure for
 VMchecker deployed at UPB.
 
-The [second track](./vmchecker-workshop/vmchecker-install) is intended for people from other institutions who want to
+The [second track](./vmchecker-workshop/vmchecker-moodle-install) is intended for people from other institutions who want to
 experiment with setting up VMchecker for their own institution.
 
 ## Conclusion
