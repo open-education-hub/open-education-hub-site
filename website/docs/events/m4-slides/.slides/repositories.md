@@ -23,6 +23,6 @@
 
 ### Security Summer School
 
-Owner: Gabi
-
-TODO
+* Old GitHub storage: <https://github.com/security*summer*school/web>
+* GitHub storage: <https://github.com/open*education*hub/binary*security>
+* Docusaurus rendering: <https://open-education-hub.github.io/binary-security/>
