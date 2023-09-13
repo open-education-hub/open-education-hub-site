@@ -1,3 +1,5 @@
+# VMChecker Guide for the Standalone UI
+
 ## 1. Introduction
 
 VMChecker Next is a new type of homework testing environment. It makes it so a student and a teacher can both use the same infrastructure in order to test homework with minimal input.
