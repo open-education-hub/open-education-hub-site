@@ -1,0 +1,20 @@
+---
+title: "Multiplier Event 4: Conference: Open Education"
+revealOptions:
+  background-color: 'aquamarine'
+  transition: 'none'
+  slideNumber: true
+  autoAnimateDuration: 0.0
+---
+
+# Open Education Hub
+
+!INCLUDE ".slides/overview.md"
+
+!INCLUDE ".slides/methodology.md"
+
+!INCLUDE ".slides/infrastructure.md"
+
+!INCLUDE ".slides/repositories.md"
+
+!INCLUDE ".slides/conclusion.md"

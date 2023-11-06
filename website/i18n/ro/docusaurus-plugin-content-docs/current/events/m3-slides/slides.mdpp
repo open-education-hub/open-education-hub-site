@@ -1,0 +1,18 @@
+---
+title: "Multiplier Event 3: Post-Analysis Event"
+revealOptions:
+  background-color: 'aquamarine'
+  transition: 'none'
+  slideNumber: true
+  autoAnimateDuration: 0.0
+---
+
+# Open Education Hub
+
+!INCLUDE ".slides/introduction.md"
+
+!INCLUDE ".slides/os-materials.md"
+
+!INCLUDE ".slides/evaluation.md"
+
+!INCLUDE ".slides/next-steps.md"

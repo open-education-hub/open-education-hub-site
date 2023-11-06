@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Open Education Hub",
+    "description": "The title in the navbar"
+  },
+  "item.label.Project Description": {
+    "message": "Project Description",
+    "description": "Navbar item with label Project Description"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Events": {
+    "message": "Events",
+    "description": "Navbar item with label Events"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Repository": {
+    "message": "Repository",
+    "description": "Navbar item with label Repository"
+  }
+}

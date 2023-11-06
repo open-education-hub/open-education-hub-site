@@ -1,0 +1,35 @@
+---
+title: "ASEM EG Digitalisation - Open Education Hub"
+revealOptions:
+  background-color: 'aquamarine'
+  transition: 'none'
+  slideNumber: true
+  autoAnimateDuration: 0.0
+---
+
+## Open Education Hub
+### ASEM Expert Group Digitalisation
+
+Project `21-COP-0016` funded by EEA Grants
+
+Răzvan Deaconescu (razvan.deaconescu@upb.ro)
+
+---
+
+!INCLUDE ".slides/motivation.md"
+
+---
+
+!INCLUDE ".slides/openedu.md"
+
+---
+
+!INCLUDE ".slides/how.md"
+
+---
+
+!INCLUDE ".slides/demo.md"
+
+---
+
+!INCLUDE ".slides/end.md"
