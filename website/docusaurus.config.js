@@ -17,6 +17,19 @@ const config = {
   organizationName: 'Open Education Hub', // Usually your GitHub org/user name.
   projectName: 'open-education-hub-website', // Usually your repo name.
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ro'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      ro: {
+        label: 'Română',
+      },
+    },
+  },
+
   presets: [
     [
       'classic',
@@ -24,7 +37,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/open-education-hub/open-education-hub-site/website/',
+          editUrl: 'https://github.com/open-education-hub/open-education-hub-site/tree/main/website/',
+          editLocalizedFiles: true,
+        },
+        blog: {
+          editLocalizedFiles: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,6 +80,10 @@ const config = {
             to: 'docs/blog/intro',
             label: 'Blog',
             position: 'left',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/open-education-hub/open-education-hub-site/',

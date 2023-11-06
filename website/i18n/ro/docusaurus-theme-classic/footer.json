@@ -1,0 +1,38 @@
+{
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://bit.ly/OpenEduHub"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Open-Education-Hub"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/OpenEduHub"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/openeducationhub"
+  },
+  "link.item.label.Linkedin": {
+    "message": "Linkedin",
+    "description": "The label of footer link with label=Linkedin linking to https://www.linkedin.com/company/open-education-hub"
+  },
+  "link.item.label.Reddit": {
+    "message": "Reddit",
+    "description": "The label of footer link with label=Reddit linking to https://www.youtube.com/@OpenEduHub"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UCumS6d-kaVXreY46eZLtEvA"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/open.education.hub/"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 <a href=\"http://www.upb.ro\">University POLITEHNICA of Bucharest<a/>, <a href=\"https://english.hi.is/\">University of Iceland</a>. Built with <a href=\"https://docusaurus.io/\">Docusaurus</a>.\n          <p>\n          The Financial Mechanism Office maintains this website to enhance public access to information about the programmes and projects of the EEA and Norway Grants.\n          The information is of a general nature, based on information and data registered by third parties and is not intended to be comprehensive or complete.\n\n          We make our best efforts to keep this information timely and accurate.\n          If errors are brought to our attention we will try to correct them.\n          However, The Financial Mechanism Office accepts no responsibility or liability whatsoever with regard to the information on this site and is in no event liable for damages of any kind incurred or suffered as a result of the use of the information presented on this website.\n\n          The Financial Mechanism Office reserves the right to alter, amend or remove pages, in whole or in part, without prior notice or to discontinue publication for a period of time or even completely.\n          </p>\n          <p>\n          This material was realised with the EEA Financial Mechanism 2014-2021 financial support.\n          Its content (text, photos, videos) does not reflect the official opinion of the Programme Operator, the National Contact Point and the Financial Mechanism Office.\n          Responsibility for the information and views expressed therein lies entirely with the author(s).\n          </p>",
+    "description": "The footer copyright"
+  }
+}

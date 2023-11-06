@@ -1,0 +1,20 @@
+---
+title: "Multiplier Event 1: Pre-launch of 1st Content"
+revealOptions:
+  background-color: 'aquamarine'
+  transition: 'none'
+  slideNumber: true
+  autoAnimateDuration: 0.0
+---
+
+# Open Education Hub
+
+!INCLUDE ".slides/overview.md"
+
+!INCLUDE ".slides/methodology.md"
+
+!INCLUDE ".slides/content.md"
+
+!INCLUDE ".slides/infrastructure.md"
+
+!INCLUDE ".slides/community.md"

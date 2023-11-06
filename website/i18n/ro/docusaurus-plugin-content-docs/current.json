@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Project Description": {
+    "message": "Project Description",
+    "description": "The label for category Project Description in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "Community",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Events": {
+    "message": "Events",
+    "description": "The label for category Events in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.vmchecker-workshop": {
+    "message": "vmchecker-workshop",
+    "description": "The label for category vmchecker-workshop in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Blog": {
+    "message": "Blog",
+    "description": "The label for category Blog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Talks": {
+    "message": "Talks",
+    "description": "The label for category Talks in sidebar tutorialSidebar"
+  }
+}
