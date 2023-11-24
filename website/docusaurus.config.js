@@ -65,6 +65,11 @@ const config = {
             position: 'left',
           },
           {
+            to: 'docs/published-papers/intro',
+            label: 'Published Papers',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/open-education-hub/open-education-hub-site/',
             label: 'Repository',
             position: 'right',
