@@ -26,3 +26,7 @@ Additionally, all of this content is public and usable by anyone, including lear
 Therefore, the content may be reviewed and updated by multiple educators and learners alike.
 
 We use the proposed methodology to create educational materials for multiple university courses and present the impact of using such materials from both educator and learner perspectives.
+
+## Link to Article
+
+The article is available [here](https://drive.google.com/drive/folders/1ubNtELrG-DY-XJsZTVpcnVSeXEvYX6b3?usp=sharing).
