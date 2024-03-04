@@ -1,6 +1,9 @@
 ---
-title: Project Description
+title: "Project: Open Education Hub"
+sidebar_position: 1
 ---
+
+# Project: Open Education Hub (21-COP-0016)
 
 The advance of the Internet has shattered the old-order educational paradigm where teachers were the almost exclusive owners of knowledge and best practices.
 **In the new-order educational paradigm, information is one click away.**

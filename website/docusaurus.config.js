@@ -45,8 +45,8 @@ const config = {
         },
         items: [
           {
-            to: 'docs/description/project-description',
-            label: 'Project Description',
+            to: 'docs/project/description',
+            label: 'Project',
             position: 'left',
           },
           {
